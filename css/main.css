@@ -2596,4 +2596,7 @@ footer .copyright span:last-child::after {
 	background: #000000;
 }
 
+.space p {
+padding: 15px;
+}
 /*# sourceMappingURL=main.css.map */
