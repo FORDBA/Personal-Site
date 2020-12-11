@@ -52,7 +52,7 @@ html {
 
 .profile_image {
 	width: 600px;
-	height: 450px;
+	height: 750px;
 	padding: 3%;
 	border-radius: 10%;
 }
@@ -1301,7 +1301,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(../images/portfoliobackgroundbryan.jpeg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
